@@ -11,6 +11,10 @@ Academic dishonesty was suspected to be occurring at Thomas High School for nint
 - Ninth grade math and reading scores were removed and therefore favored the school's results, due to 1 lesser value present for the average. Ninth grade scores have a lower average score than 10th-12th graders. 
 - ![grade](https://user-images.githubusercontent.com/95246572/150879868-155de74e-19ee-4768-9b0a-f2a51b9910f8.png)
 ## Scores by school spending
+- ![sch_spend](https://user-images.githubusercontent.com/95246572/150881364-e16b669d-0dfb-4545-b3e2-d171e8ed650c.png)
+
+## School Size
+- ![sch_size](https://user-images.githubusercontent.com/95246572/150881376-754341d3-27ee-4066-a365-234149a8f496.png)
 
 
     How does replacing the ninth-grade scores affect the following:
